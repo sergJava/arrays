@@ -10,6 +10,9 @@ public class Main {
         for (int i = 0; i < array3.length; i++) {
             array3[i] = i + 1;
         }
+        System.out.println(Arrays.toString(array1));
+        System.out.println(Arrays.toString(array2));
+        System.out.println(Arrays.toString(array3));
         System.out.println();
 
 
